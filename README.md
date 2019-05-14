@@ -1,4 +1,4 @@
-# quest_for_br
+# Liite quest
 Little quest for my lovely on her birth date
 
 ## BUILD
